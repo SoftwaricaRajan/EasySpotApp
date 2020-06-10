@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "78068502522",
+    "firebase_url": "https://easyspot-a7318.firebaseio.com",
+    "project_id": "easyspot-a7318",
+    "storage_bucket": "easyspot-a7318.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78068502522:android:8187c7b39bb240b7c75e43",
+        "android_client_info": {
+          "package_name": "com.rajan.easyspot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78068502522-cegiecu1ehj70mdm5crmdus4h56n3g7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH2Knzq8ibObxqocKepkZoRPUwtuvDIuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78068502522-cegiecu1ehj70mdm5crmdus4h56n3g7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
